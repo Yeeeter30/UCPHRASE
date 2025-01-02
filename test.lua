@@ -3,11 +3,11 @@
     "author": "@nivalos",
     "tabs": [
         {
-            "Name": "Words",
+            "Name": "WordsV2",
             "Icon": "book-a",
             "Content": [
                 "nịg̣g̣а",
-                "Phrase #2"
+                "nịg̣g̣ẹṛ"
             ]
         }
     ]
