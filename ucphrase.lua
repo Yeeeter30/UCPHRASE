@@ -7,10 +7,10 @@
             "Icon": "book-a",
             "Content": [
                 "nịg̣g̣а",
-                "nịg̣g̣ẹṛ"
-                "nịg̣g̣аṣ"
-                "nịg̣g̣ẹṛṣ"
-                "f̣аg̣g̣ọṭ" 
+                "nịg̣g̣ẹṛ",
+                "nịg̣g̣аṣ",
+                "nịg̣g̣ẹṛṣ",
+                "f̣аg̣g̣ọṭ",
                 "f̣аg̣g̣ọṭṣ"
             ]
         }
